@@ -19,7 +19,7 @@ Bachelor of Science in Applied Mathematics <br />
 2018 - 2022 <br />
 
 ### Projects
-
+https://github.com/jamaicagagam/Portfolio
 
 ### Technical Skills
 Excel <br />
