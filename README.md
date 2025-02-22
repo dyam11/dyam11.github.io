@@ -1,3 +1,8 @@
+title: Jamaica Gagam
+logo: /assets/img/headshot_circle.png
+#description
+theme: jekyll-theme-minimal
+
 # Data Analyst
 
 ### Work Experience
