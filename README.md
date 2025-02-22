@@ -14,18 +14,18 @@ Gallius Shared Services, OPC <br />
 June 2023 - September 2023 <br />
 
 ### Education
-**Polytechnic University of the Philippines**
-Bachelor of Science in Applied Mathematics
-2018 - 2022
+**Polytechnic University of the Philippines** <br />
+Bachelor of Science in Applied Mathematics <br />
+2018 - 2022 <br />
 
 ### Projects
 
 
 ### Technical Skills
-Excel
-PowerBI
-SQL
-Tableau
-Python
-Jira
+Excel <br />
+PowerBI <br />
+SQL <br />
+Tableau <br />
+Python <br />
+Jira <br />
 
