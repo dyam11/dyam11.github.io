@@ -30,5 +30,5 @@ Python <br />
 Jira <br />
 
 ### Contacts
-LinkedIn: https://www.linkedin.com/in/jamaica-mae-gagam-506820223/)
+LinkedIn: https://www.linkedin.com/in/jamaica-mae-gagam-506820223/) <br />
 Email: jamaicagagam@gmail.com
